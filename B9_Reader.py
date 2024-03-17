@@ -23,7 +23,7 @@ class Reader:
         # 无效标的数量
         self.db_Invalid_quantity = 0
 
-        # 下面是字段头二次初始化，用于计算。
+        # 下面是字段头初始化
         self.field_symbol = field_symbol
         self.field_date = field_date
 
